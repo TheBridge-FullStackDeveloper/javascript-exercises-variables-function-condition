@@ -12,6 +12,8 @@
 7. Crea una función llamada "sayHello" que retorne "Hello".
 8. Crea una función llamada "add" que reciba dos números como argumentos y retorne la suma de ambos.
 9. Crea una función llamada "sayHelloTo" que reciba un nombre como argumento y retorne "Hello, {name}".
+
+## Condicionales
 10. Crea una condición que retorne "true" si "firstParam" es mayor a "secondParam" y "false" si no lo es.
 11. Crea una condición que retorne "true" si "firstParam" es igual a "secondParam" y "false" si no lo es.
 12. Crea una condición que retorne "true" si "firstParam" es diferente a "secondParam" y "false" si no lo es.

@@ -19,6 +19,7 @@
 
 // Crea una función llamada "sayHelloTo" que reciba un nombre como argumento y retorne "Hello, {name}"
 
+// CONDICIONALES
 // Crea una condición que retorne "true" si "firstParam" es mayor a "secondParam" y "false" si no lo es
 
 function isGreater(firstParam, secondParam) {
