@@ -86,18 +86,18 @@ describe('Funciones', function () {
   });
 
   it('debería retornar "LI" para el nombre "Giorgio"', function () {
-    expect(getAgeByName('Giorgio')).toBe('LI');
+    expect(getRoleByName('Giorgio')).toBe('LI');
   });
 
   it('debería retornar "LI" para el nombre "Ivan"', function () {
-    expect(getAgeByName('Ivan')).toBe('LI');
+    expect(getRoleByName('Ivan')).toBe('LI');
   });
 
   it('debería retornar "TA" para el nombre "Marcos"', function () {
-    expect(getAgeByName('Marcos')).toBe('TA');
+    expect(getRoleByName('Marcos')).toBe('TA');
   });
 
   it('debería retornar "Not found" para un nombre no encontrado', function () {
-    expect(getAgeByName('Alex')).toBe('Not found');
+    expect(getRoleByName('Alex')).toBe('Not found');
   });
 });
