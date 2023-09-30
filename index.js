@@ -77,6 +77,6 @@ function isGreaterAnd(firstParam, secondParam, thirdParam, fourthParam) {
 
 // Esta parte se puede hacer con if/else o con switch/case
 
-function getAgeByName(name) {
+function getRoleByName(name) {
   // Aquí va tu código
 }
